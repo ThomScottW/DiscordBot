@@ -105,4 +105,4 @@ for filename in os.listdir("./cogs"):
 
 
 # Run the client, using the discord API key.
-client.run("Nzg4OTc3ODgyMjYxMjI1NDgz.X9rW6Q.kNfkgN2LIP7gacVlbNW2z5tawss")
+client.run("APIKEYGOESHERE")
